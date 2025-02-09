@@ -11,6 +11,13 @@ I’m a skilled **Web Developer** and **Machine Learning Engineer** with experti
 - Working on **Machine Learning** projects
 - Open to **collaborating** on interesting projects
 
+  ### 🛠 Tech Stack:
+- 💻 **Languages:** Python, JavaScript, HTML/CSS  
+- 🧠 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, NLP  
+- 🔧 **Web Development:** React.js, Node.js, Express.js, MongoDB, MySQL  
+- ⚙️ **Tools:** GitHub, Docker, VS Code, Jupyter  
+- 🎨 **UI/UX:** Figma, Adobe XD 
+
 ## 📫 How to reach me
 - Email: g.sajeev.sanju@gmail.com
 - LinkedIn: [Sajeev Raju Gangarayi](linkedin.com/in/sajeev-raju-gangarayi-352b51253)
