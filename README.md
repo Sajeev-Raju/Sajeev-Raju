@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Sajeev Raju!
 
-I’m a skilled **Web Developer** and **Machine Learning Engineer** with expertise in React.js, Node.js, and Python. I specialize in building modern, responsive web applications and integrating AI-based solutions for automation and analytics. I’ve worked on machine learning projects , helping businesses streamline their workflows. I’m always looking for ways to improve my skills and contribute to the tech community.
+"Hi, I’m a backend developer with a strong focus on REST API development using Spring Boot and Java. I enjoy building clean, scalable, and efficient APIs that help applications run smoothly.
+✅ Developing REST APIs with Spring Boot
+✅ Database Integration (MySQL, PostgreSQL)
+✅ Authentication & Security (JWT, OAuth)
+✅ API Documentation (Swagger, Postman)
+✅ Microservices & Cloud Deployment
+I have experience working with MySQL databases, implementing secure authentication (JWT, OAuth), and integrating APIs with third-party services. Whether you need a new API, improvements to an existing one, or troubleshooting, I’m here to help.
+
 
 ## 🌱 Current Learning
 - Learning **Machine Learning** and its applications
