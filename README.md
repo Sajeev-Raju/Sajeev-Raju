@@ -1,34 +1,31 @@
-# 👋 Hi, I'm Sajeev Raju!
+👋 Hi, I'm Sajeev Raju!
+I'm a backend developer passionate about building REST APIs using Spring Boot and Java. I love creating clean, scalable, and efficient APIs that power modern applications.
 
-"Hi, I’m a backend developer with a strong focus on REST API development using Spring Boot and Java. I enjoy building clean, scalable, and efficient APIs that help applications run smoothly.
-✅ Developing REST APIs with Spring Boot
+🚀 What I Do:
+✅ Develop REST APIs with Spring Boot
 ✅ Database Integration (MySQL, PostgreSQL)
 ✅ Authentication & Security (JWT, OAuth)
 ✅ API Documentation (Swagger, Postman)
 ✅ Microservices & Cloud Deployment
-I have experience working with MySQL databases, implementing secure authentication (JWT, OAuth), and integrating APIs with third-party services. Whether you need a new API, improvements to an existing one, or troubleshooting, I’m here to help.
 
+I have hands-on experience working with databases, securing APIs, and integrating third-party services. Whether you need a new API, performance improvements, or troubleshooting, I’m happy to help!
 
-## 🌱 Current Learning
-- Learning **Machine Learning** and its applications
-- Exploring **Web Development** with React, Node.js, and more
-
-## 💼 What I do
-- Building web applications using **JavaScript**, **React**, and **Node.js**
-- Working on **Machine Learning** projects
-- Open to **collaborating** on interesting projects
-
-  ### 🛠 Tech Stack:
-- 💻 **Languages:** Python, JavaScript, HTML/CSS  
-- 🧠 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, NLP  
-- 🔧 **Web Development:** React.js, Node.js, Express.js, MongoDB, MySQL  
-- ⚙️ **Tools:** GitHub, Docker, VS Code, Jupyter  
-- 🎨 **UI/UX:** Figma, Adobe XD 
-
-## 📫 How to reach me
-- Email: g.sajeev.sanju@gmail.com
-- LinkedIn: [Sajeev Raju Gangarayi](linkedin.com/in/sajeev-raju-gangarayi-352b51253)
-
+🌱 What I’m Learning:
+Machine Learning and its applications
+Web Development with React, Node.js, and backend services
+💼 What I Work On:
+Building backend services using Spring Boot
+Developing web applications with JavaScript, React, and Node.js
+Exploring AI & Machine Learning with Python
+🛠 Tech Stack:
+💻 Languages: Java, Python, JavaScript, HTML/CSS
+🧠 Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch
+🔧 Web Development: Spring Boot, React.js, Node.js, Express.js, MongoDB, MySQL
+⚙️ Tools & Platforms: GitHub, Docker, VS Code, Jupyter
+🎨 UI/UX: Figma, Adobe XD
+📫 How to Reach Me:
+📧 Email: g.sajeev.sanju@gmail.com
+🔗 LinkedIn: Sajeev Raju Gangarayi
 
 
 
